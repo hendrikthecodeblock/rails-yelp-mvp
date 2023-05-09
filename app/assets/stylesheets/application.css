@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+ .restaurant_title_centre {
+  text-align: center;
+  font-size: 4rem;
+  margin-right: 20px;
+
+ }
+
+ .restaurant_details_centre {
+
+  font-size: 2rem;
+  margin-left: 70px;
+
+
+ }
