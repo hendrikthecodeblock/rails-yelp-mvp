@@ -1,6 +1,8 @@
-<h1>Restaurants</h1>
+<div class="mt-5"><h1>Restaurants</h1></div>
+<div>
 <p><% @restaurants.each do |restaurant| %>
 <%= restaurant.name %>
 </p>
 <p><%= link_to "Show this restaurant", restaurant %></p>
 <% end %>
+</div>
