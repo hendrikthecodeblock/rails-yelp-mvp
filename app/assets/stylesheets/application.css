@@ -14,11 +14,7 @@
  *= require_self
  */
 .restaurant_title_centre {
-  text-align: center;
-  font-size: 4rem;
-  margin-right: 20px;
-}
 
-.restaurant_details_align {
-  font-size: 2rem;
+  font-size: 3rem;
+  margin-right: 20px;
 }
